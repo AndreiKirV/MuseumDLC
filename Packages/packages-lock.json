@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.soupday.cc3_unity_tools": {
-      "version": "file:C:/Users/911/Desktop/cc_unity_tools_HDRP-1.6.2.HDRP12",
+      "version": "file:C:/Users/VR/Desktop/cc_unity_tools_HDRP-1.6.2.HDRP12",
       "depth": 0,
       "source": "local",
       "dependencies": {
